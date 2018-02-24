@@ -1,9 +1,9 @@
 Sign in through Steam
 =====================
-This Plugin for IPS 4.0+ will allow your users to login with their Steam account.
+This Plugin for Invision Community 4.x.x (Allows your users to login using there steam login)
 
 ##Recommended Installation Requirements:
-* Minimum IP.Core Requirements ( as found on https://community.invisionpower.com/files/file/7046-get-ready-for-ips-40/ )
+* Minimum IP.Community Requirements: https://invisioncommunity.com/files/file/7046-get-ready-for-ips-4/
  - If you are using InvisonPower's Hosted forums, this is already done for you.
 * Is curl enabled? If not, install/enable it please.
 * Hosting with Free services will not be supported
